@@ -1,0 +1,42 @@
+From slackworld-announce at lists.berlios.de  Thu Jan 31 08:00:13 2008
+From: slackworld-announce at lists.berlios.de (The Slack World magazine)
+Date: Thu, 31 Jan 2008 20:00:13 +1300
+Subject: The Slack World: Tux meets Amiga
+Message-ID: <d283c9730801302300l70301fcax3059ec24eba2e091@mail.gmail.com>
+
+Dear fellow Slackers,
+
+Are you on old school Amiga user who gave up that most brilliant of
+operating systems? Even in case you aren't, we believe you will enjoy
+reading "Tux meets Amiga, or Amiga emulation using UAE or E-UAE"
+by Tom Newsom.
+
+The article is available here:
+
+http://slackworld.berlios.de/2008/amiga.html
+
+Yours,
+The Slack World guys
+
+
+From slackworld-announce at lists.berlios.de  Thu Mar 20 09:47:18 2008
+From: slackworld-announce at lists.berlios.de (The Slack World magazine)
+Date: Thu, 20 Mar 2008 11:47:18 +0300
+Subject: The Slack World: Tux meets Amiga, part 2: Porting AmiKit to Linux
+Message-ID: <20080320114718.5c96d7c0@mojo.having.fun>
+
+Dear fellow Slackers,
+
+We are very glad to present the second article by Tom Newsom on running Amiga 
+in Linux. This is not just a review of another Amiga emulator but an emotional
+history of the process of creating and debugging a working port of AmiKit to Linux. Yes, it's hard to believe but "Tux meets Amiga," published earlier this
+year, caused or at least stimulated the appearance of a great new tool for all
+fans of Linux and Amiga.
+
+The article can be found here:
+http://slackworld.berlios.de/2008/amikit.html
+
+Yours,
+The Slack World Team
+
+

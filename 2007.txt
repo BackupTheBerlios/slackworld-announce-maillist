@@ -1,0 +1,139 @@
+From slackworld-announce at lists.berlios.de  Wed Jan 17 16:10:57 2007
+From: slackworld-announce at lists.berlios.de (The Slack World magazine)
+Date: Wed, 17 Jan 2007 18:10:57 +0300
+Subject: The Slack World: mini-HOWTO: A Linux to MS VPN
+Message-ID: <20070117181057.7cfd0ffb.slackworld@gmail.com>
+
+Ladies and gentlemen, folks, fellow slackers,
+
+We are very glad to let you know that one more person has joined the Slack
+World team. This is Tom Newsom, a Slackware user since 1993! Tom begins
+his participation in the project with "A quickie on how to set up a Linux
+to MS VPN" <http://slackworld.berlios.de/2007/Linux2MS-VPN.html>
+
+Enjoy!
+
+Editors
+
+
+From slackworld-announce at lists.berlios.de  Sat Feb 17 20:55:05 2007
+From: slackworld-announce at lists.berlios.de (The Slack World magazine)
+Date: Sat, 17 Feb 2007 22:55:05 +0300
+Subject: The Slack World: "A How To on Creating a chroot Environment",
+	by Tom Newsom
+Message-ID: <20070217225505.082e4f57.slackworld@gmail.com>
+
+"chroot - run command or interactive shell with special root directory"
+(man chroot) This doesn't sound very inspiring, does it?  Go read "A How
+To on Creating a chroot Environment" by Tom Newsom and you will find
+chroot to be one of the most exciting commands in your Linux box:
+
+http://slackworld.berlios.de/2007/chroot_howto.html
+
+At least, we hope so :-)
+
+--
+The Slack World Team
+
+
+From slackworld-announce at lists.berlios.de  Wed Mar 28 08:52:50 2007
+From: slackworld-announce at lists.berlios.de (The Slack World magazine)
+Date: Wed, 28 Mar 2007 10:52:50 +0400
+Subject: The Slack World: A Few Days in the Slack 64-bit World
+Message-ID: <20070328105250.f4ca94c4.e-boogie@yandex.ru>
+
+Ladies and gentlemen, folks, and fellow slackers:
+
+In early March, Grant Coady became a happy owner of a brand new 64-bit
+PC.  Definitely, he couldn't stand trying 64-bit forks of Slackware. 
+Here one can find a brief diary of the first few days of Grant's life in
+the slack 64-bit world:
+
+http://slackworld.berlios.de/2007/slack_64-bit_world.html
+
+Enjoy!
+
+Editors of The Slack World
+http://slackworld.berlios.de
+
+
+
+From slackworld-announce at lists.berlios.de  Wed Mar 28 09:12:25 2007
+From: slackworld-announce at lists.berlios.de (The Slack World magazine)
+Date: Wed, 28 Mar 2007 11:12:25 +0400
+Subject: The Slack World: A Few Days in the Slack 64-bit World
+Message-ID: <20070328111225.fc5cbf22.slackworld@gmail.com>
+
+Dear Slackers:
+
+In early March, Grant Coady became a happy owner of a brand new 64-bit
+PC.  Definitely, he couldn't stand trying 64-bit forks of Slackware. 
+Here one can find a brief diary of the first few days of Grant's life in
+the slack 64-bit world:
+
+http://slackworld.berlios.de/2007/slack_64-bit_world.html
+
+Enjoy!
+
+Editors of The Slack World
+http://slackworld.berlios.de
+
+
+From slackworld-announce at lists.berlios.de  Sat Apr 14 18:45:04 2007
+From: slackworld-announce at lists.berlios.de (The Slack World magazine)
+Date: Sat, 14 Apr 2007 20:45:04 +0400
+Subject: The Slack World: Persona Grata: Robby Workman
+Message-ID: <20070414204504.6f68acc7.e-boogie@yandex.ru>
+
+Dear fellow slackers,
+
+We are continuing our Persona Grata series.
+This time, our guest is Robby Workman, one of the founders
+and maintainers of the SlackBuilds.org <http://slackbuilds.org>
+project, an active member of the Slackware community, and just
+a nice person.  An interview with Robby Workman can be found
+here: http://slackworld.berlios.de/2007/robby_workman.html
+
+Enjoy!
+
+--
+The Slack World team
+
+
+From slackworld-announce at lists.berlios.de  Sat Jun  2 14:14:53 2007
+From: slackworld-announce at lists.berlios.de (The Slack World magazine)
+Date: Sat, 2 Jun 2007 16:14:53 +0400
+Subject: The Slack World: Using VMware Server, by Grant Coady
+Message-ID: <20070602161453.f1e99c6a.e-boogie@yandex.ru>
+
+Dear fellow slackers,
+
+Suppose you need to run both Slackware Linux and another OS on the same
+machine.  Dual booting provides a well-established solution. Still, there
+is another way to accomplish the task. Namely, to run a virtual machine. 
+In his new article, Grant Coady shares his experience of running the
+latest VMware Server:
+
+http://slackworld.berlios.de/2007/vmware.html
+
+Enjoy!
+
+
+From slackworld-announce at lists.berlios.de  Sun Jul  8 16:27:53 2007
+From: slackworld-announce at lists.berlios.de (The Slack World magazine)
+Date: Sun, 8 Jul 2007 18:27:53 +0400
+Subject: The Slack World: A Review of Slackware-12.0, by Michiel van Wessem
+Message-ID: <20070708182753.840b1145.e-boogie@yandex.ru>
+
+Dear fellow slackers:
+
+The first review of the brand new Slackware-12.0 is here:
+<http://slackworld.berlios.de/2007/slackware-12.0.html>
+
+We hope you will not only enjoy reading this writeup by 
+Michiel van Wessem but will also find it useful.
+
+--
+The Slack World Team
+
+
